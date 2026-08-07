@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
