@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NitinPathak24x7/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1470-shuffle-the-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
@@ -74,4 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
