@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NitinPathak24x7/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/NitinPathak24x7/Leetcode/tree/master/0319-bulb-switcher) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
