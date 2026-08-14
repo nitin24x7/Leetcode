@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
