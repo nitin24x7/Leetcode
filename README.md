@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1470-shuffle-the-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NitinPathak24x7/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
