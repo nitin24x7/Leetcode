@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NitinPathak24x7/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NitinPathak24x7/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -110,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
