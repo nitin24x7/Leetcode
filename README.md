@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
