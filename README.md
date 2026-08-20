@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/NitinPathak24x7/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/NitinPathak24x7/Leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NitinPathak24x7/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/NitinPathak24x7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/NitinPathak24x7/Leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
