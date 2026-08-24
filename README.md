@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NitinPathak24x7/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/NitinPathak24x7/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
