@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NitinPathak24x7/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/NitinPathak24x7/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NitinPathak24x7/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
