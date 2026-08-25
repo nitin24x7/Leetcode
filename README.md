@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NitinPathak24x7/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/NitinPathak24x7/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/NitinPathak24x7/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NitinPathak24x7/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NitinPathak24x7/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2460-apply-operations-to-an-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NitinPathak24x7/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
