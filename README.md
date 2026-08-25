@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/NitinPathak24x7/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/NitinPathak24x7/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NitinPathak24x7/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
