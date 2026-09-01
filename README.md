@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/NitinPathak24x7/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/NitinPathak24x7/Leetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/NitinPathak24x7/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NitinPathak24x7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/NitinPathak24x7/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NitinPathak24x7/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/NitinPathak24x7/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1995-count-special-quadruplets](https://github.com/NitinPathak24x7/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NitinPathak24x7/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinPathak24x7/Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/NitinPathak24x7/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinPathak24x7/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NitinPathak24x7/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NitinPathak24x7/Leetcode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/NitinPathak24x7/Leetcode/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NitinPathak24x7/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/NitinPathak24x7/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NitinPathak24x7/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2485-find-the-pivot-integer](https://github.com/NitinPathak24x7/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
