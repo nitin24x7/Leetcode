@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NitinPathak24x7/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NitinPathak24x7/Leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NitinPathak24x7/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/NitinPathak24x7/Leetcode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/NitinPathak24x7/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NitinPathak24x7/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NitinPathak24x7/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/NitinPathak24x7/Leetcode/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NitinPathak24x7/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NitinPathak24x7/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
